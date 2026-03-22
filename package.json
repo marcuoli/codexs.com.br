@@ -8,7 +8,11 @@
     "hugo:server": "hugo server --buildDrafts --disableFastRender",
     "serve": "concurrently \"npm run css:watch\" \"npm run hugo:server\"",
     "build": "npm run css && hugo --minify --gc",
-    "clean": "rm -rf public resources static/css/styles.min.css"
+    "clean": "rm -rf public resources static/css/styles.min.css",
+    "cf:update-report": "node tools/cloudflare-worker/report-update-checks.mjs summary",
+    "cf:update-instances": "node tools/cloudflare-worker/report-update-checks.mjs instances",
+    "cf:update-active": "node tools/cloudflare-worker/report-update-checks.mjs active",
+    "cf:update-tables": "node tools/cloudflare-worker/report-update-checks.mjs tables"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.2.0",
