@@ -1,7 +1,51 @@
 {
-  "latest": "0.5.20260313.1",
-  "updated": "2026-03-13",
+  "latest": "0.5.20260322.1",
+  "updated": "2026-03-22",
   "releases": [
+    {
+      "version": "0.5.20260322.1",
+      "release_date": "2026-03-22",
+      "rpm": {
+        "filename": "codexdns-0.5.20260322.1-1.el9.x86_64.rpm",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el9.x86_64.rpm",
+        "sha256": "90e2e48e5972f73f1b127070792817bb2767af0402d6ee7b7ea73b054b20d28e"
+      },
+      "apk": {
+        "filename": "codexdns-0.5.20260322.1-r1.apk",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-r1.apk",
+        "sha256": "72cc5894413a19c3a20e4226ffc7a0c3f10f5670360f3c1c97b619bdc3dc1ac9"
+      },
+      "deb": {
+        "filename": "codexdns_0.5.20260322.1-1_amd64.deb",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns_0.5.20260322.1-1_amd64.deb",
+        "sha256": "103776d4c42499231a7c644b0e68540b447f24f3819f89e1f1ff1e21d3d13dca"
+      },
+      "rpm_el10": {
+        "filename": "codexdns-0.5.20260322.1-1.el10.x86_64.rpm",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el10.x86_64.rpm",
+        "sha256": "f43760176beaa1417c7c296a85500344ee3734d10570e7309618e9b6aa548ed7"
+      },
+      "rpm_el9_aarch64": {
+        "filename": "codexdns-0.5.20260322.1-1.el9.aarch64.rpm",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el9.aarch64.rpm",
+        "sha256": "9d95a2d1e738e90f2b1956a3c205894b6babb88ca04d4898209caa3eb258bc14"
+      },
+      "rpm_el10_aarch64": {
+        "filename": "codexdns-0.5.20260322.1-1.el10.aarch64.rpm",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el10.aarch64.rpm",
+        "sha256": "557561237c98b42fcfc41aec4d4feac684195d1b2779d783807014099c5fd8e2"
+      },
+      "apk_aarch64": {
+        "filename": "codexdns-0.5.20260322.1-r1.apk",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-r1.apk",
+        "sha256": "64769425c7f61f8dc6fc8444391c759feee1f9b71e3c43b975ff87e3b07c56c1"
+      },
+      "deb_arm64": {
+        "filename": "codexdns_0.5.20260322.1-1_arm64.deb",
+        "url": "https://docs.codexs.com.br/codexdns/packages/codexdns_0.5.20260322.1-1_arm64.deb",
+        "sha256": "c1bb366e74b4c97c313be8b208827e9ff619ab73544e3d7e5e0092e61d424a00"
+      }
+    },
     {
       "version": "0.5.20260313.1",
       "release_date": "2026-03-13",
