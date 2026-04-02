@@ -1,49 +1,49 @@
 {
   "latest": "0.5.20260322.1",
-  "updated": "2026-03-22",
+  "updated": "2026-04-02",
   "releases": [
     {
       "version": "0.5.20260322.1",
-      "release_date": "2026-03-22",
+      "release_date": "2026-04-02",
       "rpm": {
         "filename": "codexdns-0.5.20260322.1-1.el9.x86_64.rpm",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el9.x86_64.rpm",
-        "sha256": "90e2e48e5972f73f1b127070792817bb2767af0402d6ee7b7ea73b054b20d28e"
+        "sha256": "44b85d1ee3be9bd19f32f70077da35bb01346ec0ddd74b44d6be09ea4a08a649"
       },
       "apk": {
         "filename": "codexdns-0.5.20260322.1-r1.apk",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-r1.apk",
-        "sha256": "72cc5894413a19c3a20e4226ffc7a0c3f10f5670360f3c1c97b619bdc3dc1ac9"
+        "sha256": "8b876ead119e5acec31ab48ccc7408e2d255a113ed855ecf0229f1d156fe07bd"
       },
       "deb": {
         "filename": "codexdns_0.5.20260322.1-1_amd64.deb",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns_0.5.20260322.1-1_amd64.deb",
-        "sha256": "103776d4c42499231a7c644b0e68540b447f24f3819f89e1f1ff1e21d3d13dca"
+        "sha256": "377d173ac085210a479c773fa2ceed6c1edd28154ffe6c71e16e9d65b875f27a"
       },
       "rpm_el10": {
         "filename": "codexdns-0.5.20260322.1-1.el10.x86_64.rpm",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el10.x86_64.rpm",
-        "sha256": "f43760176beaa1417c7c296a85500344ee3734d10570e7309618e9b6aa548ed7"
+        "sha256": "5525a501f936296ecc451e3401cd9cc06439a7bd426d10ea3ee6a53873295f86"
       },
       "rpm_el9_aarch64": {
         "filename": "codexdns-0.5.20260322.1-1.el9.aarch64.rpm",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el9.aarch64.rpm",
-        "sha256": "9d95a2d1e738e90f2b1956a3c205894b6babb88ca04d4898209caa3eb258bc14"
+        "sha256": "874899c90d13613d87c6be09549fecd115b478fb1f6defb903b261d74f4dddd1"
       },
       "rpm_el10_aarch64": {
         "filename": "codexdns-0.5.20260322.1-1.el10.aarch64.rpm",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-1.el10.aarch64.rpm",
-        "sha256": "557561237c98b42fcfc41aec4d4feac684195d1b2779d783807014099c5fd8e2"
+        "sha256": "1484d9685d47ddce30edc77f9b8e79aedbed9cc0882f0c9446403721a9a2571e"
       },
       "apk_aarch64": {
         "filename": "codexdns-0.5.20260322.1-r1.apk",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns-0.5.20260322.1-r1.apk",
-        "sha256": "64769425c7f61f8dc6fc8444391c759feee1f9b71e3c43b975ff87e3b07c56c1"
+        "sha256": "4bd3e02c9a958f7a5c2bb93693449536da11dbbb4873ac11d71643f2130583da"
       },
       "deb_arm64": {
         "filename": "codexdns_0.5.20260322.1-1_arm64.deb",
         "url": "https://docs.codexs.com.br/codexdns/packages/codexdns_0.5.20260322.1-1_arm64.deb",
-        "sha256": "c1bb366e74b4c97c313be8b208827e9ff619ab73544e3d7e5e0092e61d424a00"
+        "sha256": "4a1dfc7667db6830f093965d018c66317d28c87e3e214252bf4c205ff0b1d072"
       }
     },
     {
